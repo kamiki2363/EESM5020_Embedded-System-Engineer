@@ -1,0 +1,116 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dg:/model sim/examples
+vbit1adder
+Z0 !s110 1617779627
+!i10b 1
+!s100 ]AhF[LBZ7>CbIek?5GanG3
+IO=TYB^_Ve4G3ofWY=Hagd1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dG:/HKUST_master/5020/Carry select adder
+Z3 w1617779621
+Z4 8G:/HKUST_master/5020/Carry select adder/csla_64bit.v
+Z5 FG:/HKUST_master/5020/Carry select adder/csla_64bit.v
+L0 171
+Z6 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z7 !s108 1617779627.000000
+Z8 !s107 G:/HKUST_master/5020/Carry select adder/csla_64bit.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|G:/HKUST_master/5020/Carry select adder/csla_64bit.v|
+!s101 -O0
+!i113 1
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vbit5mux
+R0
+!i10b 1
+!s100 ?oCFCAclTT`SXe_kA@JUi3
+I;RXG[l5h`AQHA9gM:Kcd52
+R1
+R2
+R3
+R4
+R5
+L0 154
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vcsla_64bit
+R0
+!i10b 1
+!s100 b^c8f36FmH]G^kRHH;`F11
+I^@nzoeec0]O_0lV7MM3Mk2
+R1
+R2
+R3
+R4
+R5
+L0 13
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vcsla_64bit_tb
+!s110 1617779584
+!i10b 1
+!s100 dAHYKGZ;7V`<be9Y7nzo^2
+IV>z=@z94Y=H@DNfce>B@D1
+R1
+R2
+w1617162512
+8G:/HKUST_master/5020/Carry select adder/csla_64bit_tb.v
+FG:/HKUST_master/5020/Carry select adder/csla_64bit_tb.v
+L0 9
+R6
+r1
+!s85 0
+31
+!s108 1617779583.000000
+!s107 G:/HKUST_master/5020/Carry select adder/csla_64bit_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/HKUST_master/5020/Carry select adder/csla_64bit_tb.v|
+!s101 -O0
+!i113 1
+R10
+vRCadder
+R0
+!i10b 1
+!s100 eehZef1T8NNb2zmc7]3_H0
+Ih8Q?^]`NGz^:>j?BfeO2V1
+R1
+R2
+R3
+R4
+R5
+L0 122
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+n@r@cadder

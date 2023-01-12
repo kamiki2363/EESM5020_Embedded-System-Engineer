@@ -1,0 +1,8 @@
+{G:/HKUST_master/5020/Carry select adder/csla_64bit_tb.v} {1 {vlog -work work -stats=none {G:/HKUST_master/5020/Carry select adder/csla_64bit_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module csla_64bit_tb
+
+Top level modules:
+	csla_64bit_tb
+
+} {} {}}
